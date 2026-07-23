@@ -1,61 +1,6 @@
-# Hi, I'm Uxo 👋
-
-I'm a Web Developer focused on Frontend, JavaScript and Java.
-
-I'm passionate about building accessible, responsive and maintainable web applications. I enjoy learning by developing real-world projects and continuously improving my skills.
-
-## 💻 Tech Stack
-
-**Languages**
-- JavaScript
-- Java
-- PHP
-- SQL
-
-**Frontend**
-- HTML5
-- CSS3
-
-**Backend**
-- Node.js
-- Express
-- MySQL
-
-**Tools**
-- Git
-- Docker
-- Linux
-
----
-
-## 🚧 Current Projects
-
-### ☕ Granoks Hub *(Work in Progress)*
-A modern mini-ERP for cafés featuring a Point of Sale (POS), inventory management and a real-time dashboard.
-
-**Tech:** JavaScript · Node.js · Express · MySQL
-
-### 👥 Gestor Asociaciones *(Work in Progress)*
-A web application for managing associations, members and internal administration.
-
-**Tech:** JavaScript · Express · MySQL
-
----
-
-## 🌱 Currently
-
-- Developing real-world full-stack applications.
-- Improving software architecture and clean code practices.
-- Learning modern JavaScript and Java.
-- Looking for a Junior Web Developer opportunity.
-
----
-
-## 📫 Contact
-
-📍 Pamplona, Spain
-
-💼 LinkedIn  
-linkedin.com/in/uxopousa
-
-📧 uxopousa@gmail.com
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
